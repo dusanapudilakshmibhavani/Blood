@@ -1,0 +1,92 @@
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [to] => +91916302437202
+                    [messageCount] => 1
+                    [messageId] => 
+                    [status] => Array
+                        (
+                            [groupId] => 5
+                            [groupName] => REJECTED
+                            [id] => 28
+                            [name] => REJECTED_NOT_SENT
+                            [description] => Rejected Not Sent
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [to] => +919493845731
+                    [messageCount] => 1
+                    [messageId] => 
+                    [status] => Array
+                        (
+                            [groupId] => 5
+                            [groupName] => REJECTED
+                            [id] => 28
+                            [name] => REJECTED_NOT_SENT
+                            [description] => Rejected Not Sent
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [to] => +91916302437202
+                    [messageCount] => 1
+                    [messageId] => 
+                    [status] => Array
+                        (
+                            [groupId] => 5
+                            [groupName] => REJECTED
+                            [id] => 28
+                            [name] => REJECTED_NOT_SENT
+                            [description] => Rejected Not Sent
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [to] => +919493845731
+                    [messageCount] => 1
+                    [messageId] => 
+                    [status] => Array
+                        (
+                            [groupId] => 5
+                            [groupName] => REJECTED
+                            [id] => 28
+                            [name] => REJECTED_NOT_SENT
+                            [description] => Rejected Not Sent
+                        )
+
+                )
+
+        )
+
+)

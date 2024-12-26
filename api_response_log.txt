@@ -1,0 +1,6 @@
+Phone: +91916302437202
+Response: {"requestError":{"serviceException":{"messageId":"BAD_REQUEST","text":"Bad request","validationErrors":{"messages[0].content.language":["must be valid language"]}}}}
+
+Phone: +919493845731
+Response: {"requestError":{"serviceException":{"messageId":"BAD_REQUEST","text":"Bad request","validationErrors":{"messages[0].content.language":["must be valid language"]}}}}
+
