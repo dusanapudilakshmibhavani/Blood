@@ -16,5 +16,7 @@ This is the page where the donor can view the venues updated by the admin.After 
 button then he first undergo an eligible test consisting of some questions based on blood donation.If he is once eligible to that test then he goes to next page.After the donor eligible for donation
 he should register for that particular event.After the donor donating the blood the admin will update  the donated details of the donated donor.After the admin updated the details of a donated person
 then the details will be displayed in the admin dashboard.By clicking on thank you button admin can send thank you message to the particular donor.Once the donor successfully donated the blood then 
-he will receive the gratitude message.The Donor who already donated the blood tries to donate the blood with in the span of six months then the alert message will displayed at the donor side while 
+he will receive the gratitude message through whatsapp .The Donor who already donated the blood tries to donate the blood with in the span of six months then the alert message will displayed at the donor side while 
 registering for any event again.And he will not be able to register again.Once the time of the event is expired then the record will be disappeared automatically.
+And I also added a feature of sending Whatsapp messages to donors in emergency scenarios.I used php to send whatsapp message through web interface only.
+Finally I conclude that the whatsapp messages are sent in two scenarios in this project one is after donating the blood a gratittude mwssage will be sent and in the case when the urgent blood is required also whatsapp alerts will be sent which notify donors about urgency of  blood donation.
